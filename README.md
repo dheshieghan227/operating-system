@@ -92,3 +92,9 @@ Run the compiled executable:
   ```cmd
   peterson_simulation.exe
   ```
+
+
+---
+
+## 💭 Course Reflection
+Exploring concurrency, thread scheduling, and memory allocation in C++ here helped me understand how resources are managed under the hood. This low-level system knowledge is invaluable when configuring multi-node Spark clusters or optimizing database queries.
